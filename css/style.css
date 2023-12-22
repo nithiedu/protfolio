@@ -1124,8 +1124,4 @@ footer .copyright-text
         flex: 0 0 100%;
         max-width: 100%;
     }
-    .about-skills {
-        width: 300px;
-        margin-left: 25px;
-    }
 }
