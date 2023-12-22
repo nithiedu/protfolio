@@ -417,8 +417,7 @@ img
     position: relative;
 }
 .about-skills{
-    width:80%;
-    margin-left: 110px;
+    padding:10px;
 }
 .skill-item .skill-header .skill-title
 {
