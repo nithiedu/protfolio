@@ -1128,4 +1128,8 @@ footer .copyright-text
     {
         padding-right: 60px;
     }
+    .home-section .home-text
+    {
+        padding: 0 25px 0 0;
+    }
 }
