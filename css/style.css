@@ -1016,10 +1016,10 @@ footer .copyright-text
     }
 }
 @media  (max-width:1300px)
-{
-    .header-social
+{   
+    .home-section .home-text
     {
-        display: none;
+        padding: 0 25px 0 95px;
     }
 }
 @media(max-width: 991px)
@@ -1123,5 +1123,9 @@ footer .copyright-text
     {
         flex: 0 0 100%;
         max-width: 100%;
+    }
+    .home-image .img-box
+    {
+        padding-right: 60px;
     }
 }
