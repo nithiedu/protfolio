@@ -416,6 +416,10 @@ img
 {
     position: relative;
 }
+.about-skills{
+    width:900px;
+    margin-left: 110px;
+}
 .skill-item .skill-header .skill-title
 {
     font-size: 14px;
