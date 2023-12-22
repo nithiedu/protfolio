@@ -1130,6 +1130,6 @@ footer .copyright-text
     }
     .home-section .home-text
     {
-        padding: 0 25px 0 0;
+        padding: 0 25px 0 4px;
     }
 }
